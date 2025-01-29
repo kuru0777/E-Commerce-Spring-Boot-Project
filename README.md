@@ -73,7 +73,7 @@ public class ProductService {
 ## Getting Started
 1. Clone the repository:
    ```sh
-   git clone <https://github.com/kuru0777/E-Commerce-Spring-Boot-Project>
+   git clone https://github.com/kuru0777/E-Commerce-Spring-Boot-Project
    ```
 2. Import the project into your IDE.
 3. Configure the database connection in `application.properties`.
